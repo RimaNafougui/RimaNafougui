@@ -43,13 +43,6 @@ I am an IT student specializing in **Web and Mobile Programming**. My approach c
 ![](https://nirzak-streak-stats.vercel.app/?user=mercuryy200&theme=catppuccin_mocha&hide_border=false)<br/>
 
 
-
----
-
-[![](https://visitcount.itsvg.in/api?id=mercuryy200&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-
 ---
 
 ### Ongoing Development
