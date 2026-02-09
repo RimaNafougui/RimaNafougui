@@ -46,9 +46,9 @@ I am an IT student specializing in **Web and Mobile Programming**. My approach c
 ---
 
 ### Ongoing Development
-* **University:** Incoming Software Engineering student at Concordia University (Fall 2026).
-* **Current Learning:** ML, Pytorch, PowerBI
-* **Language:** English, French and Arabic
+* **University:** Incoming Computer Science (Fall 2026).
+* **Current Learning:** ML, Pytorch, PowerBI, Spring Boot
+* **Language:** English, French, Arabic and Korean
 
 ---
 
