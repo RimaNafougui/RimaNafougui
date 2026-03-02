@@ -39,10 +39,10 @@ Currently seeking a **Tech Internship (March – August 2026)**.
 ### Featured Projects
 
 #### [ArXiv RAG Research Assistant](https://github.com/Mercuryy200/ArxivSearchEngine)
-Automated AI pipeline that scrapes ArXiv papers weekly and enables semantic chat with research documents using a Retrieval-Augmented Generation (RAG) architecture.
-- Serverless ETL pipeline via GitHub Actions — 100% automated ingestion
-- 384-dimensional vector embeddings stored in Supabase with pgvector indexing
-- Google Gemini Pro LLM for cited, natural-language document summaries
+Full-stack AI application that ingests ArXiv research papers weekly and enables grounded semantic Q&A using a Retrieval-Augmented Generation (RAG) architecture.
+- Idempotent ETL pipeline via GitHub Actions — fetches cs.AI / cs.LG / cs.CL papers, extracts PDF text, chunks, and stores 384-dim embeddings in Supabase pgvector
+- Agentic query router using structured JSON prompts with Google Gemini — classifies each query as search, clarify, or out-of-scope before touching the vector store
+- Paper-diversity retrieval strategy ensuring the context window spans multiple sources, with a cosine similarity confidence badge and top-3 sources sidebar
 - Stack: Python, Supabase (pgvector), Google Gemini API, Streamlit, GitHub Actions
 
 #### [RCapsule — Smart Closet Manager](https://github.com/Mercuryy200/ClosetOrganizer)
