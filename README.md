@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://rimanafougui.com">Portfolio</a> ·
   <a href="https://linkedin.com/in/rima-nafougui">LinkedIn</a> ·
-  <a href="mailto:rimanafougui99@gmail.com">Email</a>
+  <a href="mailto:nafouguirima@gmail.com">Email</a>
 </p>
 
 ---
@@ -45,7 +45,7 @@ Full-stack AI application that ingests ArXiv research papers weekly and enables 
 - Paper-diversity retrieval strategy ensuring the context window spans multiple sources, with a cosine similarity confidence badge and top-3 sources sidebar
 - Stack: Python, Supabase (pgvector), Google Gemini API, Streamlit, GitHub Actions
 
-#### [RCapsule — Smart Closet Manager](https://github.com/Mercuryy200/ClosetOrganizer)
+#### [RCapsule — Smart Closet Manager](https://github.com/Mercuryy200/rcapsule)
 Full-stack wardrobe management application with AI-powered outfit recommendations and a serverless ML pipeline for real-time background removal.
 - Containerized AWS Lambda + ECR pipeline processing 176MB ONNX models
 - Chrome Extension with DOM scraping reducing manual data entry by 90%
