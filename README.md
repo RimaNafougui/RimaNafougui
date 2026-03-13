@@ -71,7 +71,7 @@ Production-grade RESTful API for income and expense tracking with role-based acc
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=mercuryy200&theme=catppuccin_mocha&hide_border=false" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=rimanafougui&theme=catppuccin_mocha&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
