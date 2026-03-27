@@ -18,7 +18,7 @@
 
 I am a final-year IT student specializing in Web and Mobile Programming, with a growing focus on Data Engineering and AI integration. My work combines frontend precision with backend architecture — from building serverless ML pipelines to designing semantic search systems.
 
-Currently seeking a **Tech Internship (March – August 2026)**.
+
 
 ---
 
