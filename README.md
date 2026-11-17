@@ -76,7 +76,7 @@ Full-stack wardrobe management application with AI-powered outfit recommendation
 - OpenAI API + OpenWeatherMap for weather-aware personalized suggestions
 - Stack: Next.js, TypeScript, Supabase, PostgreSQL, AWS Lambda, NextAuth.js, OpenAI API
 
-#### [ExpenseFlow — Personal Finance REST API](https://github.com/RimaNafougui/expenseflow) · [Live demo](https://expenseflow-production.up.railway.app)
+#### [ExpenseFlow — Personal Finance REST API](https://github.com/RimaNafougui/expenseflow)
 Production-grade RESTful API for income and expense tracking with role-based access control and automated testing.
 - JWT authentication with role-based authorization, pagination, and advanced filtering
 - 18+ unit and integration tests (JUnit 5, Mockito, MockMvc) with JaCoCo coverage reporting
