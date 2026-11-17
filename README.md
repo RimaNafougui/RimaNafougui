@@ -62,11 +62,12 @@ Tutored 15+ students weekly in Java, Python, JavaScript, SQL, Swift, and Kotlin.
 ### Featured Projects
 
 #### [ArXiv RAG Research Assistant](https://github.com/RimaNafougui/ArxivSearchEngine) · [Live demo](https://huggingface.co/spaces/RimaNafougui/ArxivSearchEngine)
-Full-stack AI application that ingests ArXiv research papers weekly and enables grounded semantic Q&A using a Retrieval-Augmented Generation (RAG) architecture.
-- Idempotent ETL pipeline via GitHub Actions — fetches cs.AI / cs.LG / cs.CL papers, extracts PDF text, chunks, and stores 384-dim embeddings in Supabase pgvector
-- Agentic query router using structured JSON prompts with Google Gemini — classifies each query as search, clarify, or out-of-scope before touching the vector store
-- Paper-diversity retrieval strategy ensuring the context window spans multiple sources, with a cosine similarity confidence badge and top-3 sources sidebar
-- Stack: Python, Supabase (pgvector), Google Gemini API, Streamlit, GitHub Actions
+Full-stack AI application that answers questions about AI/ML and quantitative finance research, using a Retrieval-Augmented Generation (RAG) architecture over arXiv papers.
+- Idempotent ETL pipeline on a daily GitHub Actions schedule — fetches cs.AI / cs.LG / cs.CL / cs.CV and q-fin papers, chunks them, and stores embeddings in Supabase pgvector
+- Hybrid search combining pgvector cosine similarity with full-text search (RRF fusion)
+- Agentic query routing with gpt-4o-mini — decides to search, ask for clarification, or decline out-of-scope queries before touching the vector store
+- Two-pass multi-hop retrieval, streaming answers, and a similarity-based confidence label with a top-3 sources sidebar
+- Stack: Python, Supabase (pgvector), OpenAI API, Streamlit, FastAPI, GitHub Actions
 
 #### [RCapsule — Smart Closet Manager](https://github.com/RimaNafougui/rcapsule) · [Live demo](https://rcapsule.com)
 Full-stack wardrobe management application with AI-powered outfit recommendations and a serverless ML pipeline for real-time background removal.
