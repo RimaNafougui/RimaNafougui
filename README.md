@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  🔎 <strong>Seeking Summer 2027 internships</strong> — software engineering, ML systems, fintech
+   <strong>Seeking Summer 2027 internships</strong> — software engineering, ML systems, fintech
 </p>
 
 ---
