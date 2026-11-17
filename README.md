@@ -20,25 +20,24 @@
 
 ### About
 
-I'm a Computer Science student at Université de Montréal (B.Sc., expected 2028), focused on AI/ML and data engineering. I lead technology at a non-profit, take on freelance development work, and build full-stack and AI-integrated projects, from serverless ML pipelines to semantic search systems.
+I'm a Computer Science student at Université de Montréal (B.Sc., expected 2028), focused on AI/ML and data engineering. Before university, I led technology at a non-profit and worked as a freelance developer. Today I build full-stack and AI-integrated projects, from serverless ML pipelines to semantic search systems.
 
 ---
 
 ### Currently
 
-- Director of Technology at Careforall.org — infrastructure, SEO, security, and email delivery
-- Freelance full-stack developer — AI-integrated web and mobile applications
 - B.Sc. Computer Science — Université de Montréal
+- Looking for Summer 2027 internships in software engineering, ML systems, or fintech
 - Languages: French (native), Arabic (native), English (professional), Korean (learning)
 
 ---
 
 ### Experience
 
-**Director of Technology** — Careforall.org (non-profit) · *Mar 2026 – Present*<br/>
-Own infrastructure, SEO, security, and email deliverability for the organization.
+**Director of Technology** — Careforall.org (non-profit) · *Mar 2026 – Aug 2026*<br/>
+Owned infrastructure, SEO, security, and email deliverability for the organization.
 
-**Freelance Developer** — Independent · *Mar 2026 – Present*<br/>
+**Freelance Developer** — Independent · *Mar 2026 – Aug 2026*<br/>
 Full-stack and AI-integrated web/mobile development for independent clients, specializing in RAG pipelines, vector search, and API integrations.
 
 **Programming Tutor** — Cégep Ahuntsic / Freelance · *May 2025 – May 2026*<br/>
