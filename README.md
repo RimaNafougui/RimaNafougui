@@ -28,7 +28,7 @@ I'm a Computer Science student at Université de Montréal (B.Sc., expected 2028
 
 - B.Sc. Computer Science — Université de Montréal
 - Looking for Summer 2027 internships in software engineering, ML systems, or fintech
-- Languages: French (native), Arabic (native), English (professional), Korean (learning)
+- Languages: French (native), Arabic (native), English (professional), Korean (learning), Mandarin Chinese(Learning)
 
 ---
 
